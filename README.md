@@ -1,5 +1,5 @@
 ---
-root: false
+show_back: false
 ---
 
 ## Welcome to Changing Expectations
