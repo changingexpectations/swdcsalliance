@@ -27,6 +27,17 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
+1. Numbered
+1. Phil
+1. List
+
+```javascript
+foo()
+{
+    
+}
+```
+   
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
