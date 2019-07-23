@@ -1,3 +1,6 @@
+---
+---
+
 ## Welcome to Changing Expectations
 
 - [Semester 1](./semester01/)
