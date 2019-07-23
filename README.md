@@ -19,8 +19,8 @@ Syntax highlighted code block
 - List
 
 1. Numbered
-2. List
-3. Phil
+1. List
+1. Phil
 
 **Bold** and _Italic_ and `Code` text
 
