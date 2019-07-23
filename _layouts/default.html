@@ -32,9 +32,9 @@
       <section id="main_content">
         {{ content }}
       </section>
-      {% if page.show_back%}
+      {% unless page.show_back%}
         <a href="../">Back</a>
-      {% endif %}
+      {% endunless %}
     </div>
 
     <div class="container">
