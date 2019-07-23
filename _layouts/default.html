@@ -32,7 +32,9 @@
       <section id="main_content">
         {{ content }}
       </section>
-      <a href="../">Back</a>
+      {% if not page.root %}
+        <a href="../">Back</a>
+      {% endif %}
     </div>
 
     <div class="container">
