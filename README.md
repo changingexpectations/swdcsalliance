@@ -34,7 +34,7 @@ Syntax highlighted code block
 ```javascript
 foo()
 {
-    
+   alert('hello'); 
 }
 ```
    
