@@ -9,7 +9,7 @@ Stern and Price's original Mad Libs book gives the following sentence as an exam
 
 ![Mad Libs Example](./img/ml01.png)
 
-[Wikipedia](https://en.wikipedia.org/wiki/Mad_Libs)
+Source: [Wikipedia](https://en.wikipedia.org/wiki/Mad_Libs)
 
 Mad Libs are played by two players. The first player asks the second to provide the words to fill in each of the blanks. After writing them all down, the story is read aloud. The second player does NOT see the story till after they provide all the answers to the first players questions.
 
