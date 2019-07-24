@@ -8,6 +8,6 @@
         3. User Interface
         4. Credentials
 2. Activity
-     - [Let's create an environment together](./activity.md/)
+     - [Let's create an environment together](./ActivityInstructor.md/)
 3. Assessment
-    - [Let's make sure your environment is ready](./assess.md/)
+    - [Let's make sure your environment is ready](./Assessment.md/)
