@@ -4,18 +4,21 @@
 Start with the bot open after logging in at https://va.ai.dynamics.com/#/
 
 1. Reset the bot
-   1. Make sure that the Tracing button is turned off ![Tracing Off](./images/TracingOff.png)
-   2. Click "Start over with latest content" at the top of the bot
+   1. Make sure that the Tracing button is turned off 
+   
+   ![Tracing Off](./images/TracingOff.png)
+   
+   1. Click "Start over with latest content" at the top of the bot
 2. Type "Hi" in the bot
 3. Hit enter or click the send button
 4. The bot responds with a number of messages.
 
-1. Reset the bot
+5. Reset the bot
    1. Make sure that the Tracing button is turned ON
    2. Click "Start over with latest content" at the top of the bot
-2. Type "Hi" in the bot
-3. Hit enter or click the send button
-4. The bot responds with a number of messages.
-5. The steps the bot executed appear on the right side of the screen
+6. Type "Hi" in the bot
+7. Hit enter or click the send button
+8. The bot responds with a number of messages.
+9.  The steps the bot executed appear on the right side of the screen
 
 
