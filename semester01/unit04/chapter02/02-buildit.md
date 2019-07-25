@@ -154,4 +154,3 @@ Now that you have see the Mad Libs bot in action, let's build it!
     ![trigger the bot](./img/mlbot27.png)
 
 Done!
-`
