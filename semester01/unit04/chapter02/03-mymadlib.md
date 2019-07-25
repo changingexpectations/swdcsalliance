@@ -8,16 +8,19 @@ Now that you have a working Mad Lib bot, you will extend it with your own Mad Li
 1. First you need to write a Mad Lib. Using a piece of paper write a full sentence that will turn into your Mad Lib. 
    
     Mine looks like this:
+
     ![My Sentence](./img/mad01.png)
 
 2. Now circle three of the words that you want the player to create when they play the game.
    
     Mine looks like this:
+
     ![Identify Words](./img/mad02.png)
 
 3. Now we need to figure out what part of speech each one of our circled words are. Create a table that looks like this using your words on your paper. 
 
     Mine looks like this:
+
     | Number | Word | Part of Speech |
     | ----- | ----- | ----- | 
     | 1 | brown | adjective |
@@ -27,6 +30,7 @@ Now that you have a working Mad Lib bot, you will extend it with your own Mad Li
 4. Great Now Lets add a column to our table, to include the questions that our bot is going to ask the user to get each one of the words. 
 
     Mine looks like this:
+
     | Number | Word | Part of Speech | Question | 
     | ----- | ----- | ----- | ----- |
     | 1 | brown | adjective | Question 1: Tell me a adjective? | 
@@ -36,6 +40,7 @@ Now that you have a working Mad Lib bot, you will extend it with your own Mad Li
 5. Next we need to create names for each of the variables that our bot is going to use to store the words from the user. Lets add a colunmn to our table to store them. 
 
     Mine looks like this:
+    
     | Number | Word | Part of Speech | Question | Variable Name |
     | ----- | ----- | ----- | ----- | ----- |
     | 1 | brown | adjective | Question 1: Tell me a adjective? | Answer1 | 
