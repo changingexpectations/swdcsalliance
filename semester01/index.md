@@ -1,6 +1,6 @@
 ---
-last: blah
-index: foo
+back: blah
+home: foo
 next: bar
 ---
 
