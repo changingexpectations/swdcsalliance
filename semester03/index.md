@@ -1,4 +1,4 @@
-## Semester 1
+## Semester 3
 
 - [Unit 1](./unit01/)
 - [Unit 2](./unit02/)
