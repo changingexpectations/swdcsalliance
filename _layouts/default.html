@@ -36,7 +36,15 @@
 
 
     <div class="container">
-      {{ page.last }} - {{ page.index }} - {{ page.next }}
+        {% if page.last %}
+          {{ page.last }}
+        {% endif %}
+        {% if page.index %}
+           - {{ page.index }}
+        {% endif %}          
+        {% if page.next %}
+           - {{ page.next }}
+        {% endif %}
     </div>
 
     <div class="container">
