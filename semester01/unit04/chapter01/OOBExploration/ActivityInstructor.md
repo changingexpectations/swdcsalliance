@@ -1,4 +1,4 @@
-## Let's see what the bot knows what to do already!
+## Let's see if the bot knows what to do already!
 
 
 Start with the bot open after logging in at https://va.ai.dynamics.com/#/
