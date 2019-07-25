@@ -10,7 +10,7 @@ Navigate to https://powerapps.microsoft.com/en-us/communityplan/
 Click Get Started Free
 ![Open Browser](ES03.png)
 
-Enter your email address 
+Enter the user name that was provided to you by the instructor.  
 ![Open Browser](ES04.png)
 
 Click "Sign up"
