@@ -29,10 +29,37 @@
     </header>
 
     <div class="container">
+        <ul class="nav">
+          {% if page.back %}
+            <li><a href="{{ page.back }}">Back</a></li>
+          {% endif %}
+          {% if page.home %}
+            <li><a href="{{ page.home }}">Home</a></li>
+          {% endif %}
+          {% if page.next %}
+            <li><a href="{{ page.next }}">Next</a></li>
+          {% endif %}
+        </ul>
+    </div>
+
+    <div class="container">
       <section id="main_content">
         {{ content }}
       </section>
-      <a href="../">Back</a>
+    </div>
+
+    <div class="container">
+        <ul class="nav">
+          {% if page.back %}
+            <li><a href="{{ page.back }}">Back</a></li>
+          {% endif %}
+          {% if page.home %}
+            <li><a href="{{ page.home }}">Home</a></li>
+          {% endif %}
+          {% if page.next %}
+            <li><a href="{{ page.next }}">Next</a></li>
+          {% endif %}
+        </ul>
     </div>
 
     <div class="container">

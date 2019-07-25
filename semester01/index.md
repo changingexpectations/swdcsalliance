@@ -1,3 +1,9 @@
+---
+back: blah
+home: foo
+next: bar
+---
+
 ## Semester 1
 
 - [Unit 1](./unit01/)
