@@ -1,3 +1,8 @@
+---
+back: "./02-mymadlib.md"
+home: "../"
+---
+
 ## Unit 4 - Bots - Chapter 2 Implement your bot
 
 
