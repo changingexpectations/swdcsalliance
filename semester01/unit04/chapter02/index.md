@@ -1,7 +1,6 @@
 ---
 back: "../chapter01/"
 home: "../"
-next: "../chapter03/"
 ---
 
 ## Unit 4 - Bots - Chapter 2 Implement your bot

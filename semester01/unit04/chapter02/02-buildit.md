@@ -1,6 +1,6 @@
 ---
 back: "./01-introduction.md"
-home: "../"
+home: "./index.md"
 next: "./02-mymadlib.md"
 ---
 

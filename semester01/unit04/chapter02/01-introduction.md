@@ -1,5 +1,5 @@
 ---
-home: "../"
+home: "./index.md"
 next: "./02-buildit.md"
 ---
 
