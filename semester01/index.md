@@ -1,7 +1,6 @@
 ---
-back: blah
-home: foo
-next: bar
+home: "../"
+next: "../semester02/"
 ---
 
 ## Semester 1
