@@ -1,6 +1,6 @@
 ---
-home: "./index.md"
-next: "./02-buildit.md"
+home: "./index.html"
+next: "./02-buildit.html"
 ---
 
 ## Unit 4 - Bots - Chapter 2 Implement your bot

@@ -1,7 +1,7 @@
 ---
-back: "./01-introduction.md"
-home: "./index.md"
-next: "./02-mymadlib.md"
+back: "./01-introduction.html"
+home: "./index.html"
+next: "./02-mymadlib.html"
 ---
 
 ## Unit 4 - Bots - Chapter 2 Implement your bot
