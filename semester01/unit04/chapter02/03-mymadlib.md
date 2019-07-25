@@ -33,22 +33,22 @@ Now that you have a working Mad Lib bot, you will extend it with your own Mad Li
 
     | Number | Word | Part of Speech | Question | 
     | ----- | ----- | ----- | ----- |
-    | 1 | brown | adjective | Question 1: Tell me a adjective? | 
+    | 1 | brown | adjective | Question 1: Tell me an adjective? | 
     | 2 | fox | noun | Question 2: Tell me a noun? | 
     | 3 | dog | noun | Question 3: Tell me a noun? | 
 
 5. Next we need to create names for each of the variables that our bot is going to use to store the words from the user. Lets add a colunmn to our table to store them. 
 
     Mine looks like this:
-    
+
     | Number | Word | Part of Speech | Question | Variable Name |
     | ----- | ----- | ----- | ----- | ----- |
-    | 1 | brown | adjective | Question 1: Tell me a adjective? | Answer1 | 
+    | 1 | brown | adjective | Question 1: Tell me an adjective? | Answer1 | 
     | 2 | fox | noun | Question 2: Tell me a noun? | Answer2 |
     | 3 | dog | noun | Question 3: Tell me a noun? | Answer3 |
 
 6. Now we have all the information we need to build a new topic for our new story, and then we can add it to our bots list of mad libs. 
 
-    > Hint: Look at the steps from the last exercise starting at step 19. The process will be very similar, just using the information from your paper. 
+    > Hint: Look at the steps from the last exercise starting at step 18. The process will be very similar, just using the information from your paper. 
 
 
