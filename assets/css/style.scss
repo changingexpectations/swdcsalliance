@@ -11,8 +11,9 @@ ul.nav {
 
   ul.nav li {
     display: inline;
+    border-right: 1px solid #b5e853;
   }
 
-  ul.nav li a {
-    display: block;
+  ul.nav li:last-child {
+    border-right: none;
   }
