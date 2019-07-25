@@ -9,6 +9,10 @@ ul.nav {
     padding: 0;
   }
 
+  ul.nav li {
+    display: inline;
+  }
+
   ul.nav li a {
     display: block;
   }
