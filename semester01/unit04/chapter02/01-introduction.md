@@ -1,5 +1,5 @@
 ---
-home: "./index.html"
+home: "./"
 next: "./02-buildit.html"
 ---
 

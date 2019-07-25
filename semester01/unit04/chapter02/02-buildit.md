@@ -1,7 +1,7 @@
 ---
 back: "./01-introduction.html"
-home: "./index.html"
-next: "./02-mymadlib.html"
+home: "./"
+next: "./03-mymadlib.html"
 ---
 
 ## Unit 4 - Bots - Chapter 2 Implement your bot
@@ -33,9 +33,9 @@ Now that you have see the Mad Libs bot in action, let's build it!
 6. Our topic will need 5 trigger phrases. Add the follwing:
    1. "Start the Game"
    2. "I want to play a game"
-   1. "Mad Libs game"
-   2. "ml"
-   3. "game time"
+   3. "Mad Libs game"
+   4. "ml"
+   5. "game time"
 
 7. It should look like this, then press the conversation "edit" button
 
@@ -116,7 +116,7 @@ Now that you have see the Mad Libs bot in action, let's build it!
 
     ![first q and a](./img/mlbot19.png)
 
-1. We now need to repeat steps 20 - 24 for the next three questions. Use the following values to fill out your conversation. 
+25. We now need to repeat steps 20 - 24 for the next three questions. Use the following values to fill out your conversation. 
 
 
     | Question | Bot Says | Variable Name |
@@ -129,33 +129,33 @@ Now that you have see the Mad Libs bot in action, let's build it!
  
     ![q and a topic](./img/mlbot20.png)
 
-2.  Now we have all the answers stored in variables, we need to put them in our story. Put the following text in a bot says block. "Answer1! he said Answer2 as he jumped into his convertible Answer3 and drove off with his Answer4 wife." 
+26. Now we have all the answers stored in variables, we need to put them in our story. Put the following text in a bot says block. "Answer1! he said Answer2 as he jumped into his convertible Answer3 and drove off with his Answer4 wife." 
 
-3. Now double click on "Answer1" in the string you just entered. Then click on the "{x}" button to replace the text with the "Answer1" variable. Repeat the process for the other 3 answers. It should look like this when you are done. 
+27. Now double click on "Answer1" in the string you just entered. Then click on the "{x}" button to replace the text with the "Answer1" variable. Repeat the process for the other 3 answers. It should look like this when you are done. 
 
     ![story](./img/mlbot21.png)
 
-4. Now after we show the story to the user, the user needs to "go to" the "Mad Libs Close" topic. Select, "Go to" from the box at the end of the conversation and then pick "Mad Libs Close". it should now look like this. And then save your changes using the button in the upper right. 
+28. Now after we show the story to the user, the user needs to "go to" the "Mad Libs Close" topic. Select, "Go to" from the box at the end of the conversation and then pick "Mad Libs Close". it should now look like this. And then save your changes using the button in the upper right. 
 
     ![story](./img/mlbot22.png)
 
-5. The last step is to connect our "story 1" topic to the "mad libs Greeting" topic. Click on "topics" on the left, then press the pencil on the "mad libs Greeting" topic. 
+29. The last step is to connect our "story 1" topic to the "mad libs Greeting" topic. Click on "topics" on the left, then press the pencil on the "mad libs Greeting" topic. 
 
     ![update open](./img/mlbot23.png)
 
-6. Find the Users Says, Story 1 block, and add a "go to" for our first story topic. And then save your changes using the button in the upper right. 
+30. Find the Users Says, Story 1 block, and add a "go to" for our first story topic. And then save your changes using the button in the upper right. 
 
     ![go to story](./img/mlbot24.png)
 
-7. Great, now it is time to test out our bot! Click the "test your bot" button in the lower left of the screen.
+31. Great, now it is time to test out our bot! Click the "test your bot" button in the lower left of the screen.
 
     ![test your bot button ](./img/mlbot25.png)
 
-8. Next press the "start over with latest content" button, and then enable the tracing switch. 
+32. Next press the "start over with latest content" button, and then enable the tracing switch. 
 
     ![reset and trace](./img/mlbot26.png)
 
-9. Now you can send any of the trigger phrases to the bot to start playing the game.
+33. Now you can send any of the trigger phrases to the bot to start playing the game.
 
     ![trigger the bot](./img/mlbot27.png)
 
