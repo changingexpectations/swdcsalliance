@@ -1,3 +1,8 @@
+---
+home: "./"
+next: "./02-buildit.html"
+---
+
 ## Unit 4 - Bots - Chapter 2 Implement your bot
 
 

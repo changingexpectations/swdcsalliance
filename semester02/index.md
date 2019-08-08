@@ -1,3 +1,9 @@
+---
+back: "../semester01/"
+home: "../"
+next: "../semester03/"
+---
+
 ## Semester 2
 
 - [Unit 1](./unit01/)
